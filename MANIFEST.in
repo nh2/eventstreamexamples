@@ -1,0 +1,4 @@
+recursive-include eventstreamexamples/public *
+include eventstreamexamples/public/favicon.ico
+recursive-include eventstreamexamples/i18n *
+recursive-include eventstreamexamples/templates *
